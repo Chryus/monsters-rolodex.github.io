@@ -26,3 +26,11 @@ code {
   color: #0ccac4;
   font-family: 'Bigelow Rules';
 }
+
+.app-subtitle {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 36px;
+  color: #0ccac4;
+  font-family: 'Bigelow Rules';
+}
